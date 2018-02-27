@@ -1,0 +1,8 @@
+{
+    "author": "Yue Zhang <zhangyue@mapbar.com>",
+    "description": "A GitBook about learning GitBook",
+    "plugins" : ["advanced-emoji","codeblock-filename"]
+}
+
+
+

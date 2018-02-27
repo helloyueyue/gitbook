@@ -37,3 +37,7 @@ npm install gitbook-cli -g
 
 `gitgitbook serve`
 
+```python:hello.py
+print "hello"
+```
+
